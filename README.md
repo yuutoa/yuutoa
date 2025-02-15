@@ -59,7 +59,7 @@
 </p>
 
 
-<!-- Yuuto Akihiro's Template Description -->
+<!-- Yuuto Akihiro's ReadMe Template  -->
 <!--
 This template is designed with a clean and minimalistic style, highlighting core technical skills, GitHub stats, and connections. 
 It uses dynamic elements to create an interactive and professional developer profile.
