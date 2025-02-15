@@ -59,7 +59,7 @@
 </p>
 
 
-<!-- Yuuto Akihiro | ReadMe Template  -->
+<!-- Yuuto Akihiro (https://github.com/yuutoa) | ReadMe Template  -->
 <!--
 Simple and clean profile showcasing tech skills and GitHub activity.
 ⭐ If you like it, leave a star!
