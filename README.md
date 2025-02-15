@@ -46,9 +46,7 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Yuuto's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yuutoa&theme=tokyo-night&hide_border=true&hide_title=true&line=38bdae">
-  </a>
+  <img alt="Yuuto's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yuutoa&theme=tokyo-night&hide_border=true&hide_title=true&line=38bdae">
 </p>
 
 ---
