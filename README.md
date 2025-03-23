@@ -28,13 +28,13 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:akihiro.yuutoo@gmail.com">
+  <a href="mailto:akihiro.yuutoo@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/asliddin-xasanov/">
+  <a href="https://www.linkedin.com/in/asliddin-xasanov/" target="_blank">
     <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" alt="LinkedIn">
   </a>
-    <a href="https://t.me/DevYuuto">
+    <a href="https://t.me/DevYuuto" target="_blank">
     <img src="img/telegram.png" width="100" alt="LinkedIn">
   </a>
 </p>
