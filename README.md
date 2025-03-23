@@ -15,11 +15,14 @@
   <img alt="Python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="Python">
   <img alt="HTML5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="HTML5">
   <img alt="CSS" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100" alt="Django" title="Django">
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" width="100" alt="Flask" title="Flask">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100" alt="PostgreSQL" title="PostgreSQL">
+  <img src="img/flask.png" width="100" alt="Flask" title="Flask">
 </p>
-
+<p align="center">
+  <img src="img/django.png" width="90" alt="Django" title="Django">
+  <img src="img/rest-framework.png" width="90" alt="Rest-Framework" title="DRF">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100" alt="PostgreSQL" title="PostgreSQL">
+  <img src="img/sqlite.png" width="100" alt="SQLite" title="SQLite">
+</p>
 
 <!-- Connect Section -->
 ### 📫 Connect with Me
@@ -28,8 +31,11 @@
   <a href="mailto:akihiro.yuutoo@gmail.com">
     <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" alt="Gmail">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/asliddin-xasanov/">
     <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" alt="LinkedIn">
+  </a>
+    <a href="https://t.me/DevYuuto">
+    <img src="img/telegram.png" width="100" alt="LinkedIn">
   </a>
 </p>
 
