@@ -1,5 +1,5 @@
 <!-- Main Title Section -->
-<h1 align="center">Welcome! I'm Yuuto - Dedicated to Excellence</h1>
+<h1 align="center">Welcome! I'm Yuuto</h1>
 
 <!-- Profile GIF -->
 <p align="center">
